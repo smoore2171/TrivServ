@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TriviaServer\Controllers\HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TriviaServer\Web.config">
     <Files>
-      <File FileName="TriviaServer\Controllers\HomeController.cs" Line="20" Column="1" />
+      <File FileName="TriviaServer\Controllers\HomeController.cs" Line="1" Column="1" />
+      <File FileName="TriviaServer\Web.config" Line="43" Column="88" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
