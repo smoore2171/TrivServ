@@ -13,6 +13,8 @@ namespace TriviaServer
 
 		public DbSet<Achievement> achievements { get; set; }
 
+		public DbSet<LevelScore> levelScores { get; set; }
+
 		public DataContext ()
 		{
 		}

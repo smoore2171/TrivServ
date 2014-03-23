@@ -91,6 +91,9 @@
     <Compile Include="Models\DataContext.cs" />
     <Compile Include="Migrations\201402070050056_Migration1.cs" />
     <Compile Include="Migrations\201402070050056_Migration1.Designer.cs" />
+    <Compile Include="Models\LevelScore.cs" />
+    <Compile Include="Migrations\201403091709390_Migration2.cs" />
+    <Compile Include="Migrations\201403091709390_Migration2.Designer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />
@@ -102,19 +105,23 @@
     <Content Include="Global.asax" />
     <Content Include="packages.config" />
     <Content Include="Migrations\201402070050056_Migration1.resx" />
+    <Content Include="Migrations\201403091709390_Migration2.resx" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
   <ProjectExtensions>
     <MonoDevelop>
       <Properties VerifyCodeBehindFields="True" VerifyCodeBehindEvents="True">
-        <XspParameters Port="8081" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="True" />
+        <XspParameters Port="8080" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="True" />
       </Properties>
     </MonoDevelop>
   </ProjectExtensions>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201402070050056_Migration1.resources">
-      <LogicalName>TriviaServer.Migrations1.resources</LogicalName>
+      <LogicalName>TriviaServer.Migration1.resources</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201403091709390_Migration2.resources">
+      <LogicalName>TriviaServer.Migration2.resources</LogicalName>
     </EmbeddedResource>
   </ItemGroup>
 </Project>

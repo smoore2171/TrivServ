@@ -34,7 +34,7 @@ namespace TriviaServer
 		protected void Application_Start ()
 		{
 			// role and db actions 
-			//AddMigrations(1);
+			//AddMigrations(2);
 			//UpdateDatabase ();
 			//return;
 			//Roles.CreateRole ("User");
