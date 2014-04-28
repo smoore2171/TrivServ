@@ -1,17 +1,17 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TriviaServer\Controllers\ApiController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TriviaServer\Web.config">
     <Files>
       <File FileName="TriviaServer\Controllers\HomeController.cs" Line="1" Column="1" />
-      <File FileName="TriviaServer\Web.config" Line="73" Column="68" />
-      <File FileName="TriviaServer\Controllers\ApiController.cs" Line="73" Column="5" />
-      <File FileName="TriviaServer\Models\Statistics.cs" Line="7" Column="3" />
-      <File FileName="TriviaServer\Models\LevelScore.cs" Line="11" Column="3" />
+      <File FileName="TriviaServer\Web.config" Line="114" Column="9" />
+      <File FileName="TriviaServer\Controllers\ApiController.cs" Line="1" Column="1" />
+      <File FileName="TriviaServer\Models\Statistics.cs" Line="1" Column="1" />
+      <File FileName="TriviaServer\Models\LevelScore.cs" Line="1" Column="1" />
       <File FileName="TriviaServer\Global.asax" Line="1" Column="1" />
-      <File FileName="TriviaServer\Global.asax.cs" Line="12" Column="1" />
-      <File FileName="TriviaServer\Models\User.cs" Line="18" Column="30" />
-      <File FileName="TriviaServer\Models\DataContext.cs" Line="16" Column="26" />
-      <File FileName="TriviaServer\Migrations\201403091709390_Migration2.cs" Line="2" Column="2" />
+      <File FileName="TriviaServer\Global.asax.cs" Line="1" Column="1" />
+      <File FileName="TriviaServer\Models\User.cs" Line="1" Column="1" />
+      <File FileName="TriviaServer\Models\DataContext.cs" Line="1" Column="1" />
+      <File FileName="TriviaServer\Migrations\201403091709390_Migration2.cs" Line="1" Column="1" />
       <File FileName="TriviaServer\Migrations\201402070050056_Migration1.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
